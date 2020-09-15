@@ -1,0 +1,143 @@
+{
+    "UCDoRrW0LPPi1d-eGByUJXWg": {
+        "channel_statistics": {
+            "viewCount": "2006381",
+            "commentCount": "0",
+            "subscriberCount": "39900",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3"
+        },
+        "video_data": {
+            "hFUVRJ42mMY": {
+                "publishedAt": "2020-03-18T21:00:45Z",
+                "title": "TaFamily Story - Yo pa kite m chante (Jakm\u00e8l Samedi 14 mas 2020)",
+                "channelId": "UCDoRrW0LPPi1d-eGByUJXWg",
+                "description": "Facebook: https://www.facebook.com/tafamisoleil/\n\nInstagram: https://instagram.com/tafaayiti?igshid=66zxwgb449h9\n\nTwitter: https://twitter.com/SoleilTafa?s=08\n\n#EvazyonMizik",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hFUVRJ42mMY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hFUVRJ42mMY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hFUVRJ42mMY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tafa Mi-Soleil",
+                "tags": [
+                    "Tafa mi soleil",
+                    "tafa mi soley",
+                    "tafa",
+                    "mizik sove vim"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "TaFamily Story - Yo pa kite m chante (Jakm\u00e8l Samedi 14 mas 2020)",
+                    "description": "Facebook: https://www.facebook.com/tafamisoleil/\n\nInstagram: https://instagram.com/tafaayiti?igshid=66zxwgb449h9\n\nTwitter: https://twitter.com/SoleilTafa?s=08\n\n#EvazyonMizik"
+                },
+                "viewCount": "20611",
+                "likeCount": "885",
+                "dislikeCount": "19",
+                "favoriteCount": "0",
+                "commentCount": "108",
+                "duration": "PT2M30S",
+                "dimension": "2d",
+                "definition": "sd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "DK"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular",
+                "relevantTopicIds": [
+                    "/m/04rlf",
+                    "/m/04rlf"
+                ],
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Music"
+                ]
+            },
+            "0HUHJCVRIVI": {
+                "publishedAt": "2020-03-02T01:40:43Z",
+                "title": "Tafa Mi-Soleil - Mizik sove vi m, Pt 2 (Videyo ofisy\u00e8l)",
+                "channelId": "UCDoRrW0LPPi1d-eGByUJXWg",
+                "description": "Facebook: https://www.facebook.com/tafamisoleil/\n\nInstagram: https://instagram.com/tafaayiti?igshid=66zxwgb449h9\n\nTwitter: https://twitter.com/SoleilTafa?s=08\n\n#EvazyonMizik",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0HUHJCVRIVI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0HUHJCVRIVI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0HUHJCVRIVI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0HUHJCVRIVI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0HUHJCVRIVI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tafa Mi-Soleil",
+                "tags": [
+                    "Mizik sove vim"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Tafa Mi-Soleil - Mizik sove vi m, Pt 2 (Videyo ofisy\u00e8l)",
+                    "description": "Facebook: https://www.facebook.com/tafamisoleil/\n\nInstagram: https://instagram.com/tafaayiti?igshid=66zxwgb449h9\n\nTwitter: https://twitter.com/SoleilTafa?s=08\n\n#EvazyonMizik"
+                },
+                "viewCount": "1927706",
+                "likeCount": "28134",
+                "dislikeCount": "1025",
+                "favoriteCount": "0",
+                "commentCount": "5560",
+                "duration": "PT4M29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "DK"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular",
+                "relevantTopicIds": [
+                    "/m/04rlf",
+                    "/m/064t9",
+                    "/m/04rlf",
+                    "/m/064t9"
+                ],
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Music",
+                    "https://en.wikipedia.org/wiki/Pop_music"
+                ]
+            }
+        }
+    }
+}
